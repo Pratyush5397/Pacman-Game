@@ -1,0 +1,1 @@
+Welcome to my Pacman game project implemented in Python! This classic arcade game brings nostalgia with a modern twist. Pacman traverses the maze, gobbling up pellets while evading ghosts. It's not just about survival; it's about mastering the art of strategy and quick reflexes.
